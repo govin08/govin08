@@ -11,7 +11,7 @@ Hi, I'm SunJoong Kim, a *would-be* data scientist or data analyst.
   - [Calculating the Lipschitz constant of ML algorithms (2022)](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/0706_Lipschitz_Constant.pdf)
   - Participation in a competion about manufacturing data (2022)
   - [Participation in a competion about recommendation system (2022)](https://coldnoodlesoup.wixsite.com/nextai/post/2022-유플러스-ai-ground)
-  - Suggesting the new SOCAR zone (aiffelthon, 2023)
+  - [Suggesting the new SOCAR zone (aiffelthon, 2023)](https://govin08.github.io/machine_learning/socar_zones/)
 - 👩‍🚀 I'm looking for a job for AI or data science which involves many mathetmatics.
 
 <div align=center><h1>📚 STACKS</h1></div>
