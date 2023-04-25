@@ -1,4 +1,4 @@
-### Hi there, I'm SunJoong Kim 👋
+### Hello👋
 
 Hi, I'm SunJoong Kim, a *would-be* data scientist or data analyst.
 - 🌱 I’m currently a graduate student of Korea university.
