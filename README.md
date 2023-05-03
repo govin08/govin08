@@ -1,6 +1,6 @@
 ### Hello👋
 
-Hi, I'm SunJoong Kim, a *would-be* data scientist or data analyst.
+Hi, I'm SunJoong Kim, a *would-be* data scientist or data researcher.
 - 🌱 I’m currently a graduate student of Korea university.
 - 🚴‍I enjoy bicycling, running, playing games and reading old novels.
 - 🎲 I’m interested in all kind of mathematics from the elementary level.
