@@ -6,7 +6,7 @@ Hi, I'm SunJoong Kim, a *would-be* data scientist or AI researcher.
 - 🎲 I’m interested in all kind of mathematics from the elementary level.
   - refer to [an article about linear algebra](https://govin08.github.io/mathematics/diagonalization/).
   - refer to [an article about probability](https://govin08.github.io/mathematics/kocw_stats/).
-- 📚 I’ve been studing machine learning and deep learning since January 2020.
+- 📚 I’ve been studying machine learning and deep learning since January 2020.
   - Stock prediction using LSTM and Wavelet (2020)
   - [Calculating the Lipschitz constant of ML algorithms (2022)](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/0706_Lipschitz_Constant.pdf)
   - Participation in a competion about manufacturing data (2022)
