@@ -1,6 +1,6 @@
 ### Hello👋
 
-Hi, I'm SunJoong Kim, a data scientist majoring in Math.
+Hi, I'm SunJoong Kim, a data scientist majored in Math.
 - 🌱 I’m currently a graduate student of Korea university.
 - 🚴‍I enjoy bicycling, running, playing games and reading old novels.
 - 🎲 I’m interested in all kind of mathematics from the elementary level.
