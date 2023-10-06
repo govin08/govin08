@@ -2,7 +2,7 @@
 
 Hi, I'm SunJoong Kim, a data scientist majored in Math.
 - 🌱 I’m currently a graduate student of Korea university.
-  - I'm expected to graduate in February 2024.
+  - I'm expected to graduate with master's degree in February 2024.
   - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding of deep learning even though he majored in topology.
 - 🚴‍I enjoy bicycling, running, playing games and reading old novels.
 - 🎲 I’m interested in all kind of mathematics from the elementary level.
