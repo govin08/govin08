@@ -21,6 +21,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in Math.
   - I worked as an ML engineer in [Tilda](https://www.tilda.co.kr/) (2023. 5 ~ 2023. 8).
   - Now I'm working for [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ ).
 - 🖨 I'm also interested in typseting or rendering mathematical equations to create math documents or webpages.
+  - Participated in LaTeX study group with professor [Kim](https://kupress.com/writers/%EA%B9%80%EC%98%81%EC%9A%B1/) and [Yang](https://mathematicians.korea.ac.kr/sdyang/) (2011 ~ 2013 winters)
   - [Using `mathejax` in `Jekyll`(2023. 3)](https://govin08.github.io/mathematics/mathjax/)
   - [I made the thesis templete for Korea University(2022. 12)](https://github.com/govin08/thesis_templete)
 
