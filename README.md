@@ -4,13 +4,13 @@ Hi, I'm SunJoong Kim, a data scientist majored in Math.
 - 🚴‍I enjoy bicycling, running, playing games and reading old novels.
 - 🌱 Education
   - I’m currently a graduate student of Korea university majoring in math.
-  - I'm expected to graduate with [master's degree](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf) in February 2024.
+  - I'm expected to graduate with [master's degree](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf) in (2024. 2).
   - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding of deep learning even though he majored in topology.
 - 🎲 I’m interested in all kind of mathematics from the elementary level.
   - refer to [an article about orthogonal diagonalization (linear algebra)](https://govin08.github.io/mathematics/diagonalization/).
   - refer to [an article about dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
   - refer to [an article about basic probability](https://govin08.github.io/mathematics/kocw_stats/).
-- 📚 I’ve been studying machine learning and deep learning since January 2020.
+- 📚 I’ve been studying machine learning and deep learning since (2020. 1).
   - Stock prediction using LSTM and Wavelet (2020)
   - [Calculating the Lipschitz constant of ML algorithms (2022)](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/0706_Lipschitz_Constant.pdf)
   - Participation in a competition about manufacturing data (2022)
