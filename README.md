@@ -1,10 +1,11 @@
 ### Hello👋
 
 Hi, I'm SunJoong Kim, a data scientist majored in Math.
-- 🌱 I’m currently a graduate student of Korea university.
-  - I'm expected to graduate with master's degree in February 2024.
-  - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding of deep learning even though he majored in topology.
 - 🚴‍I enjoy bicycling, running, playing games and reading old novels.
+- 🌱 Education
+  - I’m currently a graduate student of Korea university majoring in math.
+  - I'm expected to graduate with [master's degree](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf) in February 2024.
+  - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding of deep learning even though he majored in topology.
 - 🎲 I’m interested in all kind of mathematics from the elementary level.
   - refer to [an article about orthogonal diagonalization (linear algebra)](https://govin08.github.io/mathematics/diagonalization/).
   - refer to [an article about dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
@@ -19,6 +20,9 @@ Hi, I'm SunJoong Kim, a data scientist majored in Math.
   - I was looking for jobs as data scientist or AI researcher which involves many mathetmatics (~ 2023. 5.).
   - I worked as an ML engineer in [Tilda](https://www.tilda.co.kr/) (2023. 5 ~ 2023. 8).
   - Now I'm working for [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ ).
+- 🖨 I'm also interested in typseting or rendering mathematical equations to create math documents or webpages.
+  - [Using `mathejax` in `Jekyll`(2023. 3)](https://govin08.github.io/mathematics/mathjax/)
+  - [I made the thesis templete for Korea University(2022. 12)](https://github.com/govin08/thesis_templete)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
