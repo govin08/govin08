@@ -18,7 +18,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in Math.
   - [Suggesting the new SOCAR zone (aiffelthon, 2023. 1)](https://govin08.github.io/machine_learning/socar_zones/)
 - 👩‍🚀 Working
   - I was looking for jobs as data scientist or AI researcher which involves many mathetmatics (2023. 4 ~ 2023. 5).
-  - I worked as an ML engineer in [Tilda](https://www.tilda.co.kr/) (2023. 5 ~ 2023. 8).
+  - I worked as an ML engineer in [Tilda](https://www.tilda.co.kr/) (2023. 5 ~ 8).
   - Now I'm working for [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ ).
 - 🖨 I'm also interested in typseting or rendering mathematical equations to create math documents or webpages.
   - Participated in LaTeX study group with professor [Kim](https://kupress.com/writers/%EA%B9%80%EC%98%81%EC%9A%B1/) and [Yang](https://mathematicians.korea.ac.kr/sdyang/) (2011 ~ 2013 winters)
