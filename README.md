@@ -11,11 +11,11 @@ Hi, I'm SunJoong Kim, a data scientist majored in Math.
   - refer to [an article about dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
   - refer to [an article about basic probability](https://govin08.github.io/mathematics/kocw_stats/).
 - 📚 I’ve been studying machine learning and deep learning since (2020. 1).
-  - Stock prediction using LSTM and Wavelet (2020)
+  - Stock prediction using LSTM and Wavelet (2020. 7 ~ 11)
   - [Calculating the Lipschitz constant of ML algorithms (2022)](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/0706_Lipschitz_Constant.pdf)
-  - Participation in a competition about manufacturing data (2022)
-  - [Participation in a competition about recommendation system (2022)](https://coldnoodlesoup.wixsite.com/nextai/post/2022-유플러스-ai-ground)
-  - [Suggesting the new SOCAR zone (aiffelthon, 2023)](https://govin08.github.io/machine_learning/socar_zones/)
+  - Participation in a competition about manufacturing data (2022. 11)
+  - [Participation in a competition about recommendation system (2022. 12)](https://coldnoodlesoup.wixsite.com/nextai/post/2022-유플러스-ai-ground)
+  - [Suggesting the new SOCAR zone (aiffelthon, 2023. 1)](https://govin08.github.io/machine_learning/socar_zones/)
 - 👩‍🚀 Working
   - I was looking for jobs as data scientist or AI researcher which involves many mathetmatics (2023. 2 ~ 2023. 5).
   - I worked as an ML engineer in [Tilda](https://www.tilda.co.kr/) (2023. 5 ~ 2023. 8).
