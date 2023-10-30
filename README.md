@@ -22,7 +22,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in Math.
   - Now I'm working for [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ ).
 - 🖨 I'm also interested in typseting or rendering mathematical equations to create math documents or webpages.
   - Participated in LaTeX study group with professor [Kim](https://kupress.com/writers/%EA%B9%80%EC%98%81%EC%9A%B1/) and [Yang](https://mathematicians.korea.ac.kr/sdyang/) (2011 ~ 2013 winters)
-  - [I made the thesis templete for Korea University (2022. 12)](https://github.com/govin08/thesis_templete)
+  - I made the [thesis and dissertation templete](https://github.com/govin08/thesis_templete) for Korea University graduate school. (2022. 12)
   - [How to use `mathejax` in `Jekyll`(2023. 3)](https://govin08.github.io/mathematics/mathjax/)
 
 <div align=center><h1>📚 STACKS</h1></div>
