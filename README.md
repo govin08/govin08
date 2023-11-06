@@ -3,7 +3,7 @@
 Hi, I'm SunJoong Kim, a data scientist majored in math.
 - 🚴‍I enjoy bicycling, running, playing games and reading old novels.
 - 🌱 Education
-  - My undergraduate major was math (Korea university, 2015. 8.).
+  - My undergraduate major was math (Korea university, 2015. 8).
   - I liked analysis, set theory, elementary algebra and elementary differential geometry.
   - I’m currently a graduate student of Korea university majoring in math.
   - I'm expected to graduate with [master's degree](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf) in (2024. 2).
