@@ -12,6 +12,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - refer to [an article about orthogonal diagonalization (linear algebra)](https://govin08.github.io/mathematics/diagonalization/).
   - refer to [an article about dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
   - refer to [an article about basic probability](https://govin08.github.io/mathematics/kocw_stats/).
+  - refer to [an article about Lagrange_multiplier_method](https://govin08.github.io/mathematics/lagrange_multiplier/).
 - 📚 I’ve been studying machine learning and deep learning since (2020. 1).
   - Stock prediction using LSTM and Wavelet (2020. 7 ~ 11)
   - [Calculating the Lipschitz constant of ML algorithms (2022)](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/0706_Lipschitz_Constant.pdf)
