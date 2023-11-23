@@ -33,7 +33,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - I made the [thesis and dissertation templete](https://github.com/govin08/thesis_templete) for graduate school. (2022. 12)
   - I wrote [an article about how to use `mathjax` in `Jekyll`](https://govin08.github.io/mathematics/mathjax/) (2023. 3)
 - 📚 Books
-  - I really like reading old novels, below are the writers that I read at least 3 books.
+  - I really like reading old novel and I've read at least 3 books by each of these authors:
   - Thomas Hardy, Virginia Woolf
   - Guy de Maupassant, Albert Camus, Jean-Paul Sartre
   - Hermann Hesse
