@@ -3,16 +3,21 @@
 Hi, I'm SunJoong Kim, a data scientist majored in math.
 - 🚴‍I enjoy bicycling, running, playing games and reading old novels.
 - 🌱 Education
-  - My undergraduate major was math (2015. 8).
-  - I liked analysis, set theory, elementary algebra and elementary differential geometry.
-  - Now I've been in graduated school and I'm expected to graduate with [master's degree](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf) in (2024. 2).
-  - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding of deep learning even though he majored in topology.
-- 🎲 I’m interested in all kind of mathematics from the elementary level.
+  - Undergraduate
+    - I graduated from Korea university majoring in math (2015. 8).
+    - I liked analysis, set theory, elementary algebra and elementary differential geometry.
+  - Graduate school
+    - I've been a graduate student since 2019. 9.
+    - I'm expected to graduate with [master's degree](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf) in (2024. 2).
+    - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding of deep learning even though he majored in topology.
+- 🎲 Mathematics
+  - I’m interested in all kind of mathematics from the elementary level.
   - refer to [an article about orthogonal diagonalization (linear algebra)](https://govin08.github.io/mathematics/diagonalization/).
   - refer to [an article about dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
   - refer to [an article about basic probability](https://govin08.github.io/mathematics/kocw_stats/).
   - refer to [an article about Lagrange_multiplier_method](https://govin08.github.io/mathematics/lagrange_multiplier/).
-- 📚 I’ve been studying machine learning and deep learning since (2020. 1).
+- 📚 Artificial Inteligence
+  - I’ve been studying machine learning and deep learning since (2020. 1).
   - Stock prediction using LSTM and Wavelet (2020. 7 ~ 11)
   - [Calculating the Lipschitz constant of ML algorithms (2022)](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/0706_Lipschitz_Constant.pdf)
   - Participation in a competition about manufacturing data (2022. 11)
