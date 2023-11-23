@@ -5,7 +5,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
 - 🌱 Education
   - My undergraduate major was math (2015. 8).
   - I liked analysis, set theory, elementary algebra and elementary differential geometry.
-  - I'm expected to graduate with [master's degree](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf) in (2024. 2).
+  - Now I've benn in graduated school and I'm expected to graduate with [master's degree](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf) in (2024. 2).
   - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding of deep learning even though he majored in topology.
 - 🎲 I’m interested in all kind of mathematics from the elementary level.
   - refer to [an article about orthogonal diagonalization (linear algebra)](https://govin08.github.io/mathematics/diagonalization/).
