@@ -16,7 +16,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - refer to [an article about dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
   - refer to [an article about basic probability](https://govin08.github.io/mathematics/kocw_stats/).
   - refer to [an article about Lagrange_multiplier_method](https://govin08.github.io/mathematics/lagrange_multiplier/).
-- 📚 Artificial Inteligence
+- 🔎 Artificial Inteligence
   - I’ve been studying machine learning and deep learning since (2020. 1).
   - Stock prediction using LSTM and Wavelet (2020. 7 ~ 11)
   - [Calculating the Lipschitz constant of ML algorithms (2022)](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/0706_Lipschitz_Constant.pdf)
@@ -32,8 +32,14 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - Participated in LaTeX study group with professor [Kim](https://kupress.com/writers/%EA%B9%80%EC%98%81%EC%9A%B1/) and [Yang](https://mathematicians.korea.ac.kr/sdyang/) (2011 ~ 2013 winters)
   - I made the [thesis and dissertation templete](https://github.com/govin08/thesis_templete) for graduate school. (2022. 12)
   - I wrote [an article about how to use `mathjax` in `Jekyll`](https://govin08.github.io/mathematics/mathjax/) (2023. 3)
-
-<div align=center><h1>📚 STACKS</h1></div>
+- 📚 Books
+  - I really like reading old novels, below are the writers that I read at least 3 books.
+  - Thomas Hardy, Virginia Woolf
+  - Guy de Maupassant, Albert Camus, Jean-Paul Sartre
+  - Hermann Hesse
+  - Fyodor Dostoevsky, Leo Tolstoy
+  - Milan Kundera
+<div align=center><h1>🎃 STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
