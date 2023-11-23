@@ -27,7 +27,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - I was looking for jobs as data scientist or AI researcher which involves many mathetmatics (2023. 4 ~ 5).
   - I worked as an ML engineer in [Tilda](https://www.tilda.co.kr/) (2023. 5 ~ 8).
   - Now I'm working for [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ ).
-- 🖨 \TeX and \LaTeX
+- 🖨 TeX and LaTeX
   - I'm also interested in typseting or rendering mathematical equations to create math documents or webpages.
   - Participated in LaTeX study group with professor [Kim](https://kupress.com/writers/%EA%B9%80%EC%98%81%EC%9A%B1/) and [Yang](https://mathematicians.korea.ac.kr/sdyang/) (2011 ~ 2013 winters)
   - I made the [thesis and dissertation templete](https://github.com/govin08/thesis_templete) for graduate school. (2022. 12)
