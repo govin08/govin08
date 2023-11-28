@@ -39,6 +39,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - Hermann Hesse
   - Fyodor Dostoevsky, Leo Tolstoy
   - Milan Kundera
+  - Osamu Dazai
 <div align=center><h1>🎃 STACKS</h1></div>
 
 <div align=center> 
