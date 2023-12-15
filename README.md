@@ -35,9 +35,9 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - I wrote [an article about how to use `mathjax` in `Jekyll`](https://govin08.github.io/mathematics/mathjax/) (2023. 3)
 - 📚 Books
   - I really like reading old novel and I've read at least 3 books by each of these authors:
-  - Thomas Hardy, Virginia Woolf
+  - Thomas Hardy, Virginia Woolf, William Shakespeare
   - Guy de Maupassant, Albert Camus, Jean-Paul Sartre
-  - Hermann Hesse
+  - Hermann Hesse, Peter Handke
   - Fyodor Dostoevsky, Leo Tolstoy
   - Milan Kundera
   - Osamu Dazai
