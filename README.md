@@ -24,6 +24,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - [Participation in a competition about recommendation system (2022. 12)](https://coldnoodlesoup.wixsite.com/nextai/post/2022-유플러스-ai-ground)
   - [Suggesting the new SOCAR zone (aiffelthon, 2023. 1)](https://govin08.github.io/machine_learning/socar_zones/)
 - 👩‍🚀 Working
+  - I worked as a private tutor teaching math to highschool and middle school students (2014 ~ 2019).
   - I was looking for jobs as data scientist or AI researcher which involves many mathetmatics (2023. 4 ~ 5).
   - I worked as an ML engineer in [Tilda](https://www.tilda.co.kr/) (2023. 5 ~ 8).
   - Now I'm working for [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ ).
