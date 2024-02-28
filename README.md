@@ -12,10 +12,11 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
     - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding of deep learning even though he majored in topology.
 - 🎲 Mathematics
   - I’m interested in all kind of mathematics from the elementary level.
-  - refer to [an article about orthogonal diagonalization (linear algebra)](https://govin08.github.io/mathematics/diagonalization/).
-  - refer to [an article about dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
-  - refer to [an article about basic probability](https://govin08.github.io/mathematics/kocw_stats/).
-  - refer to [an article about Lagrange_multiplier_method](https://govin08.github.io/mathematics/lagrange_multiplier/).
+  - Refer to articles about
+    - [orthogonal diagonalization (linear algebra)](https://govin08.github.io/mathematics/diagonalization/).
+    - [dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
+    - [basic probability](https://govin08.github.io/mathematics/kocw_stats/).
+    - [Lagrange_multiplier_method](https://govin08.github.io/mathematics/lagrange_multiplier/).
 - 🔎 Artificial Inteligence
   - I’ve been studying machine learning and deep learning since (2020. 1).
   - Stock prediction using LSTM and Wavelet (2020. 7 ~ 11)
