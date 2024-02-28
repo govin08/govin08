@@ -11,7 +11,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
     - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding of deep learning even though he majored in topology.
 - 🎲 Mathematics
   - I’m interested in all kind of mathematics from the elementary level.
-  - Refer to articles about
+  - Refer to my articles about
     - [orthogonal diagonalization (linear algebra)](https://govin08.github.io/mathematics/diagonalization/).
     - [dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
     - [basic probability](https://govin08.github.io/mathematics/kocw_stats/).
