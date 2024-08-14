@@ -7,7 +7,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
     - I graduated from Korea university majored in math (2015. 2, undergraduate).
     - I liked analysis, set theory, elementary algebra and elementary differential geometry.
   - Graduate school
-    - I graduated from Korea university majored in math (2024. 2, [master](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf)).
+    - I graduated from Korea university majored in math (2024. 2, [master's thesis](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf)).
     - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding about deep learning even though he majored in topology.
 - 🎲 Mathematics
   - I’m interested in all kind of mathematics from the elementary level.
@@ -25,8 +25,8 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - [Participation in a competition about recommendation system (2022. 12)](https://coldnoodlesoup.wixsite.com/nextai/post/2022-유플러스-ai-ground)
   - [Suggesting the new SOCAR zone (aiffelthon, 2023. 1)](https://govin08.github.io/machine_learning/socar_zones/)
 - 👩‍🚀 Working
-  - I worked as a private tutor teaching math to highschool and middle school students (2014 ~ 2019).
-  - I was looking for jobs as data scientist or AI researcher which involves many mathetmatics (2023. 4 ~ 5).
+  - I taught mathematics to highschool and middle school students as a private teacher (2014 ~ 2018).
+  - I studied in the graduate school (2019. 9 ~ 2024. 2)
   - I worked as an ML engineer in [Tilda](https://www.tilda.co.kr/) (2023. 5 ~ 8).
   - Now I'm working for [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ ).
 - 🖨 TeX and LaTeX
