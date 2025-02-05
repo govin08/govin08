@@ -34,7 +34,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - Participated in LaTeX study group with professor [Kim](https://kupress.com/writers/%EA%B9%80%EC%98%81%EC%9A%B1/) and [Yang](https://mathematicians.korea.ac.kr/sdyang/) (2011 ~ 2013 winters)
   - I made the [thesis and dissertation template](https://github.com/govin08/thesis_template) for graduate school of Korea University. (2022. 12)
   - I wrote [an article about how to use `mathjax` in `Jekyll`](https://govin08.github.io/mathematics/mathjax/) (2023. 3)
-- 📚 Books
+- 📚 Reading Books
   - I really like reading old novel and I've read at least three books by each of below authors:
   - Somerset Maugham, Thomas Hardy, Virginia Woolf, William Shakespeare
   - Guy de Maupassant, Albert Camus, Jean-Paul Sartre
