@@ -28,7 +28,8 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - I taught mathematics to highschool and middle school students as a private teacher (2014 ~ 2018).
   - I studied in the graduate school (2019. 9 ~ 2024. 2)
   - I worked as an ML engineer in [Tilda](https://www.tilda.co.kr/) (2023. 5 ~ 8).
-  - Now I'm working for [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ ).
+  - I worked as a data scientist in [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ 2024. 10).
+  - Now I'm working for [EC minor](http://ecminer.com/) (2025. 8 ~ ).
 - 🖨 TeX and LaTeX
   - I'm also interested in typseting or rendering mathematical equations to create math documents or webpages.
   - Participated in LaTeX study group with professor [Kim](https://kupress.com/writers/%EA%B9%80%EC%98%81%EC%9A%B1/) and [Yang](https://mathematicians.korea.ac.kr/sdyang/) (2011 ~ 2013 winters)
