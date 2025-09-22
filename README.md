@@ -17,6 +17,9 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
     - [basic probability](https://govin08.github.io/mathematics/kocw_stats/).
     - [Lagrange_multiplier_method](https://govin08.github.io/mathematics/lagrange_multiplier/).
     - [M/M/1 Queue](https://govin08.github.io/mathematics/mm1_queue/)
+    - [Fourier analysis](https://govin08.github.io/mathematics/Fourier_1/)
+    - [gauss elimination](https://govin08.github.io/mathematics/gauss_elimination/)
+    - [total curvature](https://govin08.github.io/mathematics/wheels/)
 - 🔎 Artificial Inteligence
   - I’ve been studying machine learning and deep learning since (2020. 1).
   - Stock prediction using LSTM and Wavelet (2020. 7 ~ 11)
