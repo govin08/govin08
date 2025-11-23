@@ -28,8 +28,10 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - [Participation in a competition about recommendation system (2022. 12)](https://coldnoodlesoup.wixsite.com/nextai/post/2022-유플러스-ai-ground)
   - Refer to my articles about
     - [Suggesting the new SOCAR zone (aiffelthon, 2023. 1)](https://govin08.github.io/machine_learning/socar_zones/)
-    - [finite MDP](https://govin08.github.io/machine-learning/finite_mdp/)
-    - [policy evaluation](https://govin08.github.io/machine-learning/policy_evaluation/)
+    - [finite MDP](https://govin08.github.io/data-science/finite_mdp/)
+    - [DP1 : policy evaluation](https://govin08.github.io/data-science/policy_evaluation/)
+    - [DP2 : policy iteration](https://govin08.github.io/data-science/policy_iteration/)
+    - [DP3 : value iteration](https://govin08.github.io/data-science/value_iteration/)
 - 👩‍🚀 Working
   - I taught mathematics to highschool and middle school students as a private teacher (2014 ~ 2018).
   - I studied in the graduate school (2019. 9 ~ 2024. 2)
