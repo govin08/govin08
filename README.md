@@ -26,8 +26,12 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - [Calculating the Lipschitz constant of ML algorithms](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf), (2022, master's thesis)
   - Participation in a competition about manufacturing data (2022. 11)
   - [Participation in a competition about recommendation system (2022. 12)](https://coldnoodlesoup.wixsite.com/nextai/post/2022-유플러스-ai-ground)
-  - Refer to my articles about
+  - Refer to my articles ;
     - [Suggesting the new SOCAR zone (aiffelthon, 2023. 1)](https://govin08.github.io/machine_learning/socar_zones/)
+  - Refer to my articles about *Optimizations*
+    - [Genetic algorithm](https://govin08.github.io/data-science/genetic_algorithm/)
+    - [Lagrange multiplier](https://govin08.github.io/mathematics/lagrange_multiplier/)
+  - Refer to my articles about *Reinforcement Learning*
     - [finite MDP](https://govin08.github.io/data-science/finite_mdp/)
     - [DP1 : policy evaluation](https://govin08.github.io/data-science/policy_evaluation/)
     - [DP2 : policy iteration](https://govin08.github.io/data-science/policy_iteration/)
