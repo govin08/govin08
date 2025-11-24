@@ -15,7 +15,6 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
     - [orthogonal diagonalization (linear algebra)](https://govin08.github.io/mathematics/diagonalization/).
     - [dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
     - [basic probability](https://govin08.github.io/mathematics/kocw_stats/).
-    - [Lagrange_multiplier_method](https://govin08.github.io/mathematics/lagrange_multiplier/).
     - [M/M/1 Queue](https://govin08.github.io/mathematics/mm1_queue/)
     - [Fourier analysis](https://govin08.github.io/mathematics/Fourier_1/)
     - [gauss elimination](https://govin08.github.io/mathematics/gauss_elimination/)
