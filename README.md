@@ -10,7 +10,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
     - I graduated from Korea university majored in math (2024. 2, [master's thesis](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf)).
     - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding about deep learning even though he majored in topology.
 - 🎲 Mathematics
-  - I’m interested in all kind of mathematics from the elementary level.
+  - I’m interested in all kinds of mathematics from the elementary level.
   - Refer to my articles about
     - [orthogonal diagonalization (linear algebra)](https://govin08.github.io/mathematics/diagonalization/).
     - [dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
@@ -19,7 +19,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
     - [Fourier analysis](https://govin08.github.io/mathematics/Fourier_1/)
     - [gauss elimination](https://govin08.github.io/mathematics/gauss_elimination/)
     - [total curvature](https://govin08.github.io/mathematics/wheels/)
-- 🔎 Artificial Inteligence
+- 🔎 Artificial Intelligence
   - I’ve been studying machine learning and deep learning since (2020. 1).
   - Stock prediction using LSTM and Wavelet (2020. 7 ~ 11)
   - [Calculating the Lipschitz constant of ML algorithms](https://github.com/govin08/Lipschitz_Constant_of_DNN/blob/main/Lipschitz_constant_of_neural_networks.pdf), (2022, master's thesis)
@@ -41,7 +41,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - I worked as a data scientist in [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ 2024. 10).
   - Now I'm working for [EC miner](http://ecminer.com/) (2025. 8 ~ ).
 - 🖨 TeX and LaTeX
-  - I'm also interested in typseting or rendering mathematical equations to create math documents or webpages.
+  - I'm also interested in typsetting or rendering mathematical equations to create math documents or webpages.
   - Participated in LaTeX study group with professor [Kim](https://kupress.com/writers/%EA%B9%80%EC%98%81%EC%9A%B1/) and [Yang](https://mathematicians.korea.ac.kr/sdyang/) (2011 ~ 2013 winters)
   - I made the [thesis and dissertation template](https://github.com/govin08/thesis_template) for graduate school of Korea University. (2022. 12)
   - I wrote [an article about how to use `mathjax` in `Jekyll`](https://govin08.github.io/mathematics/mathjax/) (2023. 3)
