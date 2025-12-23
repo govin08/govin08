@@ -28,7 +28,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - [Suggesting the new SOCAR zone (aiffelthon, 2023. 1)](https://govin08.github.io/machine_learning/socar_zones/)
   - Refer to my articles about *Optimizations*
     - [Genetic algorithm](https://govin08.github.io/data-science/genetic_algorithm/)
-    - [Lagrange multiplier](https://govin08.github.io/mathematics/lagrange_multiplier/)
+    - [Lagrange multiplier](https://govin08.github.io/mathematics/lagrange_multiplier/), [Lagrangian](https://govin08.github.io/mathematics/lagrangian/)
   - Refer to my articles about *Reinforcement Learning*
     - [finite MDP](https://govin08.github.io/data-science/finite_mdp/)
     - [DP1 : policy evaluation](https://govin08.github.io/data-science/policy_evaluation/)
