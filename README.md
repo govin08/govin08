@@ -11,13 +11,16 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
     - [Professor Oh](https://www.youtube.com/@seungsangoh9923), my supervisor, has a profound understanding about deep learning even though he majored in topology.
 - 🎲 Mathematics
   - I’m interested in all kinds of mathematics from the elementary level.
-  - Refer to my articles about
-    - [orthogonal diagonalization (linear algebra)](https://govin08.github.io/mathematics/diagonalization/).
-    - [dual space (linear algebra)](https://govin08.github.io/mathematics/dual_space/).
+  - Refer to my articles about linear algebra
+    - [orthogonal diagonalization](https://govin08.github.io/mathematics/diagonalization/).
+    - [dual space](https://govin08.github.io/mathematics/dual_space/).
+    - [gauss elimination](https://govin08.github.io/mathematics/gauss_elimination/)
+  - Refer to my articles about probability
     - [basic probability](https://govin08.github.io/mathematics/kocw_stats/).
     - [M/M/1 Queue](https://govin08.github.io/mathematics/mm1_queue/)
+  - Refer to my articles about analysis
     - [Fourier analysis](https://govin08.github.io/mathematics/Fourier_1/)
-    - [gauss elimination](https://govin08.github.io/mathematics/gauss_elimination/)
+  - Refer to my articles about differential geometry
     - [total curvature](https://govin08.github.io/mathematics/wheels/)
 - 🔎 Artificial Intelligence
   - I’ve been studying machine learning and deep learning since (2020. 1).
