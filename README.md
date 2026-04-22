@@ -1,7 +1,7 @@
 ### Hello👋
 
 Hi, I'm SunJoong Kim, a data scientist majored in math.
-- 🚴‍I enjoy bicycling, running, playing games and reading old novels.
+- 🚴‍ I enjoy bicycling, running, playing games and reading old novels.
 - 🌱 Education
   - Undergraduate
     - I graduated from Korea university majored in math (2015. 2, undergraduate).
@@ -38,18 +38,20 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
     - [DP2 : policy iteration](https://govin08.github.io/data-science/policy_iteration/)
     - [DP3 : value iteration](https://govin08.github.io/data-science/value_iteration/)
 - 👩‍🚀 Working
-  - I taught mathematics to highschool and middle school students as a private teacher (2014 ~ 2018).
+  - I taught mathematics to high school and middle school students as a private teacher (2014 ~ 2018).
   - I studied in the graduate school (2019. 9 ~ 2024. 2)
   - I worked as an ML engineer in [Tilda](https://www.tilda.co.kr/) (2023. 5 ~ 8).
   - I worked as a data scientist in [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ 2024. 10).
   - Now I'm working for [EC miner](http://ecminer.com/) (2025. 8 ~ ).
+- 🗼 Software and Programming
+  - [cahier](https://govin08.github.io/cahier/) — PyQt6로 만든 Windows용 텍스트 편집기. 한글 IME 완전 지원. (2026. 4)
 - 🖨 TeX and LaTeX
-  - I'm also interested in typsetting or rendering mathematical equations to create math documents or webpages.
+  - I'm also interested in typesetting or rendering mathematical equations to create math documents or webpages.
   - Participated in LaTeX study group with professor [Kim](https://kupress.com/writers/%EA%B9%80%EC%98%81%EC%9A%B1/) and [Yang](https://mathematicians.korea.ac.kr/sdyang/) (2011 ~ 2013 winters)
   - I made the [thesis and dissertation template](https://github.com/govin08/thesis_template) for graduate school of Korea University. (2022. 12)
   - I wrote [an article about how to use `mathjax` in `Jekyll`](https://govin08.github.io/mathematics/mathjax/) (2023. 3)
 - 📚 Reading Books
-  - I really like reading old novel and I've read at least three books by each of below authors:
+  - I really like reading old novels and I've read at least three books by each of below authors:
   - Somerset Maugham, Thomas Hardy, Virginia Woolf, William Shakespeare
   - Guy de Maupassant, Albert Camus, Jean-Paul Sartre
   - Hermann Hesse, Peter Handke
