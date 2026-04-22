@@ -44,7 +44,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - I worked as a data scientist in [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ 2024. 10).
   - Now I'm working for [ECMiner](http://ecminer.com/) (2025. 8 ~ ).
 - 🗼 Software and Programming
-  - [cahier](https://govin08.github.io/cahier/) — PyQt6로 만든 Windows용 텍스트 편집기. 한글 IME 완전 지원. (2026. 4)
+  - [cahier](https://govin08.github.io/cahier/) — A minimal text editor for Windows built with PyQt6. Full Korean IME support. (2026. 4)
 - 🖨 TeX and LaTeX
   - I'm also interested in typesetting or rendering mathematical equations to create math documents or webpages.
   - Participated in LaTeX study group with professor [Kim](https://kupress.com/writers/%EA%B9%80%EC%98%81%EC%9A%B1/) and [Yang](https://mathematicians.korea.ac.kr/sdyang/) (2011 ~ 2013 winters)
