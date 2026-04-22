@@ -71,5 +71,5 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   <br>
   <img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white">
   <img src="https://img.shields.io/badge/geogebra-9999ee?style=for-the-badge&logo=geogebra&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mathematica-DD1100?style=for-the-badge&logo=mathemtica&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mathematica-DD1100?style=for-the-badge&logo=mathematica&logoColor=white"> 
 </div>
