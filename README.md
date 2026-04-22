@@ -42,7 +42,7 @@ Hi, I'm SunJoong Kim, a data scientist majored in math.
   - I studied in the graduate school (2019. 9 ~ 2024. 2)
   - I worked as an ML engineer in [Tilda](https://www.tilda.co.kr/) (2023. 5 ~ 8).
   - I worked as a data scientist in [UI networks](https://www.uinetworks.co.kr/) (2023. 9 ~ 2024. 10).
-  - Now I'm working for [EC miner](http://ecminer.com/) (2025. 8 ~ ).
+  - Now I'm working for [ECMiner](http://ecminer.com/) (2025. 8 ~ ).
 - 🗼 Software and Programming
   - [cahier](https://govin08.github.io/cahier/) — PyQt6로 만든 Windows용 텍스트 편집기. 한글 IME 완전 지원. (2026. 4)
 - 🖨 TeX and LaTeX
